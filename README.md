@@ -1,2 +1,4 @@
 # R-Repository
-This is my repository for STATS202
+Exercise 1
+Find this number for this dataset
+
